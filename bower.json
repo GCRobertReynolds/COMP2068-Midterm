@@ -1,0 +1,24 @@
+{
+  "name": "comp2068-midterm",
+  "description": "midterm exam",
+  "main": "",
+  "authors": [
+    "RobReynolds <rob_reynolds_10@hotmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/GCRobertReynolds/COMP2068-Midterm",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/Scripts/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6",
+    "font-awesome": "^4.5.0"
+  }
+}
