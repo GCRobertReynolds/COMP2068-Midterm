@@ -8,7 +8,7 @@ router.get('/', function(req, res, next) {
 
 /* GET people page. */
 router.get('/people', function(req, res, next) {
-  res.render('index', { title: 'My Favourite People'});
+  res.render('people', { title: 'My Favourite People'});
 });
 
 /* GET contact page. */
